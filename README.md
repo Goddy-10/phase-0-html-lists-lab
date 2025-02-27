@@ -206,7 +206,7 @@ page you opened earlier. Your newly added list should look like this:
 2. Place bread in frying pan and fry
 3. Add cheese on top of bread
 4. Cover with second slice of bread
-5. Turn over and fry for 2 minutes
+5. "Turn over and fry for 2 minutes"
 
 Once you've written an ordered list that displays these 5 steps correctly, run
 `npm test` to see the tests pass.
